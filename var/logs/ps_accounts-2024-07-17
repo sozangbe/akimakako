@@ -1,0 +1,3 @@
+[2024-07-17 08:43:38] ps_accounts.DEBUG: execute hook : [PrestaShop\Module\PsAccounts\Hook\ActionAdminLoginControllerSetMedia] [] []
+[2024-07-17 08:43:38] ps_accounts.DEBUG: execute hook : [PrestaShop\Module\PsAccounts\Hook\DisplayBackOfficeEmployeeMenu] [] []
+[2024-07-17 08:43:39] ps_accounts.DEBUG: execute hook : [PrestaShop\Module\PsAccounts\Hook\DisplayDashboardTop] [] []
